@@ -5,3 +5,14 @@ const App = () => {
 };
 
 export default App;
+
+/*
+App
+SongList / SongDetail
+
+Redux
+Reducers -  song list reducer, selected song reducer
+
+Action Creator - select song
+
+*/
